@@ -8,16 +8,16 @@
 
 * 项目地址：[Excelize](https://github.com/360EntSecGroup-Skylar/excelize)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Xh411Z7s3)
-* 讲师PPT：PhaseOne_Excelize
+* 讲师PPT：[Excelize](https://github.com/gocn/opentalk/tree/main/PhaseOne_Excelize)
 
 ## 第二期 GROM
 
 * 项目地址：[GORM](https://github.com/go-gorm/gorm)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ST4y1T7NR)
-* 讲师 PPT：PhaseTwo_GROM
+* 讲师 PPT：[GORM](https://github.com/gocn/opentalk/tree/main/PhaseTwo_GORM)
 
 ## 第三期 KubeVela
 
 * 项目地址：[KubeVela](https://github.com/oam-dev/kubevela)
 * 视频地址：[近期上传]()
-* 讲师 PPT：PhaseThree_KubeVela
+* 讲师 PPT：[KubeVela](https://github.com/gocn/opentalk/tree/main/PhaseThree_KubeVela)
