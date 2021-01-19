@@ -19,5 +19,9 @@
 ## 第三期 KubeVela
 
 * 项目地址：[KubeVela](https://github.com/oam-dev/kubevela)
-* 视频地址：[近期上传]()
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1Tf4y1k7Ny)
 * 讲师 PPT：[KubeVela](https://github.com/gocn/opentalk/tree/main/PhaseThree_KubeVela)
+
+## 第四期 Go-Zero
+
+* 敬请期待
