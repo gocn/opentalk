@@ -10,7 +10,7 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Xh411Z7s3)
 * 讲师PPT：[Excelize](https://github.com/gocn/opentalk/tree/main/PhaseOne_Excelize)
 
-## 第二期 GROM
+## 第二期 GORM
 
 * 项目地址：[GORM](https://github.com/go-gorm/gorm)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ST4y1T7NR)
