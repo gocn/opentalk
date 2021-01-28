@@ -31,6 +31,4 @@
 ## 第四期 Go-Zero
 
 * 项目地址：[go-zero](https://github.com/tal-tech/go-zero)
-* 直播时间：2021年 1月 28日(周四) 晚八点
-* 直播地址：[点击前往](https://live.bilibili.com/21878276)
-* 敬请期待
+* 讲师 PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/PhaseFour_go-zero)
