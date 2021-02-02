@@ -31,4 +31,5 @@
 ## 第四期 Go-Zero
 
 * 项目地址：[go-zero](https://github.com/tal-tech/go-zero)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1Jy4y127Xu)
 * 讲师 PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/PhaseFour_go-zero)
