@@ -37,4 +37,7 @@
 ## 第五期 MOSN
 
 * 项目地址：[MOSN](https://github.com/mosn/mosn)
-* 直播时间：2021 年 2 月 18 日 晚八点，准时开播，不见不散
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1ut4y1z7Lz)
+* 讲师 PPT：[MOSN](https://github.com/gocn/opentalk/tree/main/PhaseFive_mosn)
+
+## 第六期 敬请期待
