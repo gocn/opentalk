@@ -40,4 +40,6 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ut4y1z7Lz)
 * 讲师 PPT：[MOSN](https://github.com/gocn/opentalk/tree/main/PhaseFive_mosn)
 
-## 第六期 敬请期待
+## 第六期 apisix-ingress-controller
+* 项目地址：[apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller)
+* 直播时间：2021 年 3 月 4 日 晚八点
