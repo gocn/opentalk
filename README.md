@@ -42,4 +42,5 @@
 
 ## 第六期 apisix-ingress-controller
 * 项目地址：[apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller)
-* 直播时间：2021 年 3 月 4 日 晚八点
+* 视频地址：[正在制作上传ing]()
+* 讲师 PPT：[apisix-ingress-controller](https://github.com/gocn/opentalk/tree/main/PhaseSix_ApiSix_ingress)
