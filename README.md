@@ -49,3 +49,8 @@
 * 项目地址：[Harbor](https://github.com/goharbor/harbor)
 * 直播时间：2021 年 3 月 18 日 晚八点
 * 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+
+## 第八期 Chaos Mesh
+* 项目地址：[Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
+* 直播时间：2021 年 4 月 1 日 晚八点
+* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
