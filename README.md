@@ -42,5 +42,10 @@
 
 ## 第六期 apisix-ingress-controller
 * 项目地址：[apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller)
-* 视频地址：[正在制作上传ing]()
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1Jf4y167dn)
 * 讲师 PPT：[apisix-ingress-controller](https://github.com/gocn/opentalk/tree/main/PhaseSix_ApiSix_ingress)
+
+## 第七期 harbor
+* 项目地址：[harbor](https://github.com/goharbor/harbor)
+* 直播时间：2021 年 3 月 18 日 晚八点
+* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
