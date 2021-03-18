@@ -47,8 +47,8 @@
 
 ## 第七期 Harbor
 * 项目地址：[Harbor](https://github.com/goharbor/harbor)
-* 直播时间：2021 年 3 月 18 日 晚八点
-* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+* 视频地址：[正在上传中]()
+* 讲师 PPT：[Harbor](https://github.com/gocn/opentalk/tree/main/PhaseSeven_Harbor)
 
 ## 第八期 Chaos Mesh
 * 项目地址：[Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
