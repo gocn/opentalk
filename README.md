@@ -47,7 +47,7 @@
 
 ## 第七期 Harbor
 * 项目地址：[Harbor](https://github.com/goharbor/harbor)
-* 视频地址：[正在上传中]()
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1cK4y1T7kD)
 * 讲师 PPT：[Harbor](https://github.com/gocn/opentalk/tree/main/PhaseSeven_Harbor)
 
 ## 第八期 Chaos Mesh
