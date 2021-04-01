@@ -52,8 +52,8 @@
 
 ## 第八期 Chaos Mesh
 * 项目地址：[Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
-* 直播时间：2021 年 4 月 1 日 晚八点
-* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+* 视频地址：[正在上传 ing]()
+* 讲师 PPT：[Chaos Mesh](https://github.com/gocn/opentalk/tree/main/PhaseEight_Chaos_Mesh)
 
 ## 第九期 go-chassis
 * 项目地址：[go-chassis](https://github.com/go-chassis/go-chassis)
