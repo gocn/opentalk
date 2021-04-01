@@ -52,7 +52,7 @@
 
 ## 第八期 Chaos Mesh
 * 项目地址：[Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
-* 视频地址：[正在上传 ing]()
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1PX4y1g728)
 * 讲师 PPT：[Chaos Mesh](https://github.com/gocn/opentalk/tree/main/PhaseEight_Chaos_Mesh)
 
 ## 第九期 go-chassis
