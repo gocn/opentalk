@@ -57,7 +57,7 @@
 
 ## 第九期 go-chassis
 * 项目地址：[go-chassis](https://github.com/go-chassis/go-chassis)
-* 视频地址：[正在努力上传中]()
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1vK4y1o7kL)
 * 讲师 PPT：[go-chassis](https://github.com/gocn/opentalk/tree/main/PhaseNine_goChassis)
 
 ## 第十期 BitXHub
