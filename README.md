@@ -62,8 +62,8 @@
 
 ## 第十期 BitXHub
 * 项目地址：[BitXHub](https://github.com/meshplus/bitxhub)
-* 直播时间：2021 年 4 月 29 日 晚八点
-* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+* 视频地址：[正在上传ing]() 
+* 讲师 PPT：[BitXHub](https://github.com/gocn/opentalk/tree/main/PhaseTen_BitXHub)
 
 ## 第十一期 Beego
 * 项目地址：[Beego](https://github.com/beego/beego)
