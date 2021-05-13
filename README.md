@@ -69,3 +69,8 @@
 * 项目地址：[ego-kit](https://github.com/gotomicro/ego-kit)
 * 直播时间：2021 年 5 月 13 日 晚八点
 * 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+
+## 第十二期 kubesphere
+* 项目地址：[kubesphere](https://github.com/kubesphere/kubesphere)
+* 直播时间：2021 年 5 月 27 日 晚八点
+* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
