@@ -65,7 +65,7 @@
 * 视频地址：[正在上传ing]() 
 * 讲师 PPT：[BitXHub](https://github.com/gocn/opentalk/tree/main/PhaseTen_BitXHub)
 
-## 第十一期 Beego
-* 项目地址：[Beego](https://github.com/beego/beego)
+## 第十一期 ego-kit
+* 项目地址：[ego-kit](https://github.com/gotomicro/ego-kit)
 * 直播时间：2021 年 5 月 13 日 晚八点
 * 直播地址：[点击跳转](https://live.bilibili.com/21878276)
