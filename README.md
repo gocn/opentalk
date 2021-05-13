@@ -62,13 +62,13 @@
 
 ## 第十期 BitXHub
 * 项目地址：[BitXHub](https://github.com/meshplus/bitxhub)
-* 视频地址：[正在上传ing]() 
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV12V411E7Ke) 
 * 讲师 PPT：[BitXHub](https://github.com/gocn/opentalk/tree/main/PhaseTen_BitXHub)
 
 ## 第十一期 ego-kit
 * 项目地址：[ego-kit](https://github.com/gotomicro/ego-kit)
-* 直播时间：2021 年 5 月 13 日 晚八点
-* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV175411u7rG) 
+* 讲师 PPT：[ego-kit](https://github.com/gocn/opentalk/tree/main/PhaseEleven_ego-kit)
 
 ## 第十二期 kubesphere
 * 项目地址：[kubesphere](https://github.com/kubesphere/kubesphere)
