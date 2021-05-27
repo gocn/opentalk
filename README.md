@@ -72,5 +72,5 @@
 
 ## 第十二期 kubesphere
 * 项目地址：[kubesphere](https://github.com/kubesphere/kubesphere)
-* 直播时间：2021 年 5 月 27 日 晚八点
-* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+* 视频地址：[正在努力上传ing]() 
+* 讲师 PPT：[kubesphere](https://github.com/gocn/opentalk/tree/main/PhaseTwelve_Kubesphere)
