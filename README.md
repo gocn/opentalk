@@ -74,3 +74,8 @@
 * 项目地址：[kubesphere](https://github.com/kubesphere/kubesphere)
 * 视频地址：[正在努力上传ing]() 
 * 讲师 PPT：[kubesphere](https://github.com/gocn/opentalk/tree/main/PhaseTwelve_Kubesphere)
+
+## 第十三期 GoFrame
+* 项目地址：[GoFrame](https://github.com/gogf/gf)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1yw411o7NE) 
+* 讲师 PPT：[GoFrame](https://github.com/gocn/opentalk/tree/main/PhaseThirteen_GoFrame)
