@@ -82,4 +82,4 @@
 
 ## 第十四期 casnode
 * 项目地址：[casnode](https://github.com/casbin/casnode)
-* 直播地址：[敬请期待](https://live.bilibili.com/21878276)
+* 直播地址：[直播时间：2021年 7 月 22 日晚 8 点，敬请期待](https://live.bilibili.com/21878276)
