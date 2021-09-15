@@ -14,72 +14,83 @@
 
 * 项目地址：[Excelize](https://github.com/360EntSecGroup-Skylar/excelize)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Xh411Z7s3)
-* 讲师PPT：[Excelize](https://github.com/gocn/opentalk/tree/main/PhaseOne_Excelize)
+* 讲师PPT：[Excelize](https://github.com/gocn/opentalk/tree/main/1_Excelize)
 
 ## 第二期 GORM
 
 * 项目地址：[GORM](https://github.com/go-gorm/gorm)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ST4y1T7NR)
-* 讲师 PPT：[GORM](https://github.com/gocn/opentalk/tree/main/PhaseTwo_GORM)
+* 讲师 PPT：[GORM](https://github.com/gocn/opentalk/tree/main/2_GORM)
 
 ## 第三期 KubeVela
 
 * 项目地址：[KubeVela](https://github.com/oam-dev/kubevela)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Tf4y1k7Ny)
-* 讲师 PPT：[KubeVela](https://github.com/gocn/opentalk/tree/main/PhaseThree_KubeVela)
+* 讲师 PPT：[KubeVela](https://github.com/gocn/opentalk/tree/main/3_KubeVela)
 
 ## 第四期 Go-Zero
 
 * 项目地址：[go-zero](https://github.com/tal-tech/go-zero)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Jy4y127Xu)
-* 讲师 PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/PhaseFour_go-zero)
+* 讲师 PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/4_go-zero)
 
 ## 第五期 MOSN
 
 * 项目地址：[MOSN](https://github.com/mosn/mosn)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ut4y1z7Lz)
-* 讲师 PPT：[MOSN](https://github.com/gocn/opentalk/tree/main/PhaseFive_mosn)
+* 讲师 PPT：[MOSN](https://github.com/gocn/opentalk/tree/main/5_mosn)
 
 ## 第六期 apisix-ingress-controller
 * 项目地址：[apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Jf4y167dn)
-* 讲师 PPT：[apisix-ingress-controller](https://github.com/gocn/opentalk/tree/main/PhaseSix_ApiSix_ingress)
+* 讲师 PPT：[apisix-ingress-controller](https://github.com/gocn/opentalk/tree/main/6_ApiSix_ingress)
 
 ## 第七期 Harbor
 * 项目地址：[Harbor](https://github.com/goharbor/harbor)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1cK4y1T7kD)
-* 讲师 PPT：[Harbor](https://github.com/gocn/opentalk/tree/main/PhaseSeven_Harbor)
+* 讲师 PPT：[Harbor](https://github.com/gocn/opentalk/tree/main/7_Harbor)
 
 ## 第八期 Chaos Mesh
 * 项目地址：[Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1PX4y1g728)
-* 讲师 PPT：[Chaos Mesh](https://github.com/gocn/opentalk/tree/main/PhaseEight_Chaos_Mesh)
+* 讲师 PPT：[Chaos Mesh](https://github.com/gocn/opentalk/tree/main/8_Chaos_Mesh)
 
 ## 第九期 go-chassis
 * 项目地址：[go-chassis](https://github.com/go-chassis/go-chassis)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1vK4y1o7kL)
-* 讲师 PPT：[go-chassis](https://github.com/gocn/opentalk/tree/main/PhaseNine_goChassis)
+* 讲师 PPT：[go-chassis](https://github.com/gocn/opentalk/tree/main/9_goChassis)
 
 ## 第十期 BitXHub
 * 项目地址：[BitXHub](https://github.com/meshplus/bitxhub)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV12V411E7Ke) 
-* 讲师 PPT：[BitXHub](https://github.com/gocn/opentalk/tree/main/PhaseTen_BitXHub)
+* 讲师 PPT：[BitXHub](https://github.com/gocn/opentalk/tree/main/10_BitXHub)
 
 ## 第十一期 ego-kit
 * 项目地址：[ego-kit](https://github.com/gotomicro/ego-kit)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV175411u7rG) 
-* 讲师 PPT：[ego-kit](https://github.com/gocn/opentalk/tree/main/PhaseEleven_ego-kit)
+* 讲师 PPT：[ego-kit](https://github.com/gocn/opentalk/tree/main/11_ego-kit)
 
 ## 第十二期 kubesphere
 * 项目地址：[kubesphere](https://github.com/kubesphere/kubesphere)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV17X4y1w7iF) 
-* 讲师 PPT：[kubesphere](https://github.com/gocn/opentalk/tree/main/PhaseTwelve_Kubesphere)
+* 讲师 PPT：[kubesphere](https://github.com/gocn/opentalk/tree/main/12_Kubesphere)
 
 ## 第十三期 GoFrame
 * 项目地址：[GoFrame](https://github.com/gogf/gf)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1yw411o7NE) 
-* 讲师 PPT：[GoFrame](https://github.com/gocn/opentalk/tree/main/PhaseThirteen_GoFrame)
+* 讲师 PPT：[GoFrame](https://github.com/gocn/opentalk/tree/main/13_GoFrame)
 
 ## 第十四期 casnode
 * 项目地址：[casnode](https://github.com/casbin/casnode)
-* 直播地址：[直播时间：2021年 7 月 22 日晚 8 点，敬请期待](https://live.bilibili.com/21878276)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1Mw411R7CJ) 
+* 讲师 PPT：[casnode](https://github.com/gocn/opentalk/tree/main/14_casnode)
+
+## 第十五期 Erda（一）
+* 项目地址：[Erda](https://github.com/erda-project/erda)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1hX4y1F7nP) 
+* 讲师 PPT：[Erda](https://github.com/gocn/opentalk/tree/main/15_Erda)
+
+## 第十六期 Erda（二）
+* 项目地址：[Erda](https://github.com/erda-project/erda)
+* 直播时间：2021 年 9 月 16 日晚八点
+* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
