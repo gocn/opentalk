@@ -96,5 +96,5 @@
 
 ## 第十七期 dtm
 * 项目地址：[dtm](https://github.com/yedf/dtm)
-* 直播时间：2021 年 9 月 29 日晚八点
-* 直播地址：[点击跳转](https://live.bilibili.com/21878276)
+* 视频地址：[正在上传]() 
+* 讲师 PPT：[dtm](https://github.com/gocn/opentalk/tree/main/17_dtm)
