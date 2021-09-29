@@ -92,5 +92,9 @@
 
 ## 第十六期 Erda（二）
 * 项目地址：[Erda](https://github.com/erda-project/erda)
-* 直播时间：2021 年 9 月 16 日晚八点
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1sQ4y1k7jZ) 
+
+## 第十七期 dtm
+* 项目地址：[dtm](https://github.com/yedf/dtm)
+* 直播时间：2021 年 9 月 29 日晚八点
 * 直播地址：[点击跳转](https://live.bilibili.com/21878276)
