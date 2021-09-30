@@ -96,5 +96,5 @@
 
 ## 第十七期 dtm
 * 项目地址：[dtm](https://github.com/yedf/dtm)
-* 视频地址：[正在上传]() 
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1134y1D7Pw) 
 * 讲师 PPT：[dtm](https://github.com/gocn/opentalk/tree/main/17_dtm)
