@@ -14,51 +14,51 @@
 
 * 项目地址：[Excelize](https://github.com/360EntSecGroup-Skylar/excelize)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Xh411Z7s3)
-* 讲师PPT：[Excelize](https://github.com/gocn/opentalk/tree/main/1_Excelize)
+* 讲师PPT：[Excelize](https://github.com/gocn/opentalk/tree/main/01_Excelize)
 
 ## 第二期 GORM
 
 * 项目地址：[GORM](https://github.com/go-gorm/gorm)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ST4y1T7NR)
-* 讲师 PPT：[GORM](https://github.com/gocn/opentalk/tree/main/2_GORM)
+* 讲师 PPT：[GORM](https://github.com/gocn/opentalk/tree/main/02_GORM)
 
 ## 第三期 KubeVela
 
 * 项目地址：[KubeVela](https://github.com/oam-dev/kubevela)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Tf4y1k7Ny)
-* 讲师 PPT：[KubeVela](https://github.com/gocn/opentalk/tree/main/3_KubeVela)
+* 讲师 PPT：[KubeVela](https://github.com/gocn/opentalk/tree/main/03_KubeVela)
 
 ## 第四期 Go-Zero
 
 * 项目地址：[go-zero](https://github.com/tal-tech/go-zero)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Jy4y127Xu)
-* 讲师 PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/4_go-zero)
+* 讲师 PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/04_go-zero)
 
 ## 第五期 MOSN
 
 * 项目地址：[MOSN](https://github.com/mosn/mosn)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ut4y1z7Lz)
-* 讲师 PPT：[MOSN](https://github.com/gocn/opentalk/tree/main/5_mosn)
+* 讲师 PPT：[MOSN](https://github.com/gocn/opentalk/tree/main/05_mosn)
 
 ## 第六期 apisix-ingress-controller
 * 项目地址：[apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Jf4y167dn)
-* 讲师 PPT：[apisix-ingress-controller](https://github.com/gocn/opentalk/tree/main/6_ApiSix_ingress)
+* 讲师 PPT：[apisix-ingress-controller](https://github.com/gocn/opentalk/tree/main/06_ApiSix_ingress)
 
 ## 第七期 Harbor
 * 项目地址：[Harbor](https://github.com/goharbor/harbor)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1cK4y1T7kD)
-* 讲师 PPT：[Harbor](https://github.com/gocn/opentalk/tree/main/7_Harbor)
+* 讲师 PPT：[Harbor](https://github.com/gocn/opentalk/tree/main/07_Harbor)
 
 ## 第八期 Chaos Mesh
 * 项目地址：[Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1PX4y1g728)
-* 讲师 PPT：[Chaos Mesh](https://github.com/gocn/opentalk/tree/main/8_Chaos_Mesh)
+* 讲师 PPT：[Chaos Mesh](https://github.com/gocn/opentalk/tree/main/08_Chaos_Mesh)
 
 ## 第九期 go-chassis
 * 项目地址：[go-chassis](https://github.com/go-chassis/go-chassis)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1vK4y1o7kL)
-* 讲师 PPT：[go-chassis](https://github.com/gocn/opentalk/tree/main/9_goChassis)
+* 讲师 PPT：[go-chassis](https://github.com/gocn/opentalk/tree/main/09_goChassis)
 
 ## 第十期 BitXHub
 * 项目地址：[BitXHub](https://github.com/meshplus/bitxhub)
@@ -98,3 +98,8 @@
 * 项目地址：[dtm](https://github.com/yedf/dtm)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1134y1D7Pw) 
 * 讲师 PPT：[dtm](https://github.com/gocn/opentalk/tree/main/17_dtm)
+
+## 第十八期 gnet
+* 项目地址：[gnet](https://github.com/panjf2000/gnet)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1Tv41137Lq) 
+* 讲师 PPT：[gnet](https://github.com/gocn/opentalk/tree/main/18_gnet)
