@@ -107,4 +107,4 @@
 ## 第二十二期 Netpoll
 * 项目地址：[Netpoll](https://github.com/cloudwego/netpoll)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV17U4y1K7TC) 
-* 讲师 PPT：[gnet](https://github.com/gocn/opentalk/tree/main/22_Netpoll)
+* 讲师 PPT：[Netpoll](https://github.com/gocn/opentalk/tree/main/22_Netpoll)
