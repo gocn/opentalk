@@ -107,7 +107,7 @@
 ## 第二十期 milvus
 * 项目地址：[milvus](https://github.com/milvus-io/milvus)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1ES4y1d7Rz) 
-* 讲师 PPT：[milvus]()
+* 讲师 PPT：[milvus](https://github.com/gocn/opentalk/tree/main/20_milvus)
 
 ## 第二十期 HyperBench
 * 项目地址：[HyperBench](https://github.com/meshplus/hyperbench)
