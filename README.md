@@ -17,7 +17,7 @@
 ### 第一期 go-zero
 * 项目地址：[go-zero](https://github.com/tal-tech/go-zero)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Z3411e7My)
-* 讲师PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/01_go-zero)
+* 讲师PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/2022/01_go-zero)
 
 ## 2021 年
 ### 第一期 Excelize
