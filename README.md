@@ -19,6 +19,11 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Z3411e7My)
 * 讲师PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/2022/01_go-zero)
 
+### 第二期 kratos
+* 项目地址：[kratos](https://github.com/go-kratos/kratos)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1cP4y177xh)
+* 讲师PPT：[kratos](https://github.com/gocn/opentalk/tree/main/2022/02_kratos)
+
 ## 2021 年
 ### 第一期 Excelize
 
