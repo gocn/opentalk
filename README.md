@@ -27,7 +27,7 @@
 ### 第三期 tars-go
 * 项目地址：[tars-go](https://github.com/TarsCloud/TarsGo)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1gL4y1t7N1)
-* 讲师PPT：[tars-go](https://github.com/gocn/opentalk/tree/main/2022/02_tars-go)
+* 讲师PPT：[tars-go](https://github.com/gocn/opentalk/tree/main/2022/03_tars-go)
 
 ## 2021 年
 ### 第一期 Excelize
