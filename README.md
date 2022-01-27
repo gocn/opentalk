@@ -29,6 +29,11 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1gL4y1t7N1)
 * 讲师PPT：[tars-go](https://github.com/gocn/opentalk/tree/main/2022/03_tars-go)
 
+### 第四期 GoFrame
+* 项目地址：[GoFrame](https://github.com/gogf/gf)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1U34y117w7)
+* 讲师PPT：[GoFrame](https://github.com/gocn/opentalk/tree/main/2022/04_GoFrame)
+
 ## 2021 年
 ### 第一期 Excelize
 
