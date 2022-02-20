@@ -34,6 +34,12 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1U34y117w7)
 * 讲师PPT：[GoFrame](https://github.com/gocn/opentalk/tree/main/2022/04_GoFrame)
 
+### 第四期 etcd & kstone
+* 项目地址：[etcd](https://github.com/etcd-io/etcd)
+          [kstone](https://github.com/tkestack/kstone)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1NZ4y1k7nV)
+* 讲师PPT：[etcd & kstone](https://github.com/gocn/opentalk/tree/main/2022/05_etcd&kstone)
+
 ## 2021 年
 ### 第一期 Excelize
 
