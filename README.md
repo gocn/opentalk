@@ -39,6 +39,12 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1NZ4y1k7nV)
 * 讲师PPT：[etcd & kstone](https://github.com/gocn/opentalk/tree/main/2022/05_etcd&kstone)
 
+### 第六期 grpc
+* 项目地址：[grpc](https://github.com/grpc/grpc-go)
+* 视频地址：[正在上传中]()
+* 讲师PPT：[grpc](https://github.com/gocn/opentalk/tree/main/2022/06_grpc)
+
+
 ## 2021 年
 ### 第一期 Excelize
 
