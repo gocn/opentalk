@@ -41,7 +41,7 @@
 
 ### 第六期 gRPC
 * 项目地址：[gRPC](https://github.com/grpc/grpc-go)
-* 视频地址：[正在上传中]()
+* 视频地址：[点击观看](https://www.bilibili.com/video/av211810275)
 * 讲师PPT：[gRPC](https://github.com/gocn/opentalk/tree/main/2022/06_grpc)
 
 
