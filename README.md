@@ -14,36 +14,37 @@
 
 
 ## 2022 年
-### 第一期 go-zero
+### 一月 主题：微服务框架
+#### 第一期 go-zero
 * 项目地址：[go-zero](https://github.com/tal-tech/go-zero)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1Z3411e7My)
 * 讲师PPT：[go-zero](https://github.com/gocn/opentalk/tree/main/2022/01_go-zero)
 
-### 第二期 kratos
+#### 第二期 kratos
 * 项目地址：[kratos](https://github.com/go-kratos/kratos)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1cP4y177xh)
 * 讲师PPT：[kratos](https://github.com/gocn/opentalk/tree/main/2022/02_kratos)
 
-### 第三期 tars-go
+#### 第三期 tars-go
 * 项目地址：[tars-go](https://github.com/TarsCloud/TarsGo)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1gL4y1t7N1)
 * 讲师PPT：[tars-go](https://github.com/gocn/opentalk/tree/main/2022/03_tars-go)
 
-### 第四期 GoFrame
+#### 第四期 GoFrame
 * 项目地址：[GoFrame](https://github.com/gogf/gf)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1U34y117w7)
 * 讲师PPT：[GoFrame](https://github.com/gocn/opentalk/tree/main/2022/04_GoFrame)
 
-### 第五期 etcd & kstone
+### 二月 主题：微服务基础设施
+#### 第五期 etcd & kstone
 * 项目地址：[etcd](https://github.com/etcd-io/etcd) & [kstone](https://github.com/tkestack/kstone)
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1NZ4y1k7nV)
 * 讲师PPT：[etcd & kstone](https://github.com/gocn/opentalk/tree/main/2022/05_etcd&kstone)
 
-### 第六期 gRPC
+#### 第六期 gRPC
 * 项目地址：[gRPC](https://github.com/grpc/grpc-go)
 * 视频地址：[点击观看](https://www.bilibili.com/video/av211810275)
 * 讲师PPT：[gRPC](https://github.com/gocn/opentalk/tree/main/2022/06_grpc)
-
 
 ## 2021 年
 ### 第一期 Excelize
