@@ -43,8 +43,18 @@
 
 #### 第六期 gRPC
 * 项目地址：[gRPC](https://github.com/grpc/grpc-go)
-* 视频地址：[点击观看](https://www.bilibili.com/video/av211810275)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1vY411379G)
 * 讲师PPT：[gRPC](https://github.com/gocn/opentalk/tree/main/2022/06_grpc)
+
+#### 第七期 Prometheus
+* 项目地址：[Prometheus](https://github.com/prometheus/prometheus)
+* 视频地址：[点击观看](https://www.bilibili.com/video/av211810275)
+* 讲师PPT：[Prometheus](https://github.com/gocn/opentalk/tree/main/2022/07_Prometheus)
+
+#### 第八期 泛型
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1Hr4y1q7Eo)
+* 讲师PPT：[generic](https://github.com/gocn/opentalk/tree/main/2022/08_generic)
+
 
 ## 2021 年
 ### 第一期 Excelize
