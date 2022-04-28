@@ -61,6 +61,11 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1yZ4y127HF)
 * 讲师PPT：[erda](https://github.com/gocn/opentalk/tree/main/2022/09_paas_1)
 
+#### 第十期 深入探索云原生流水线的架构设计
+* 项目地址：[erda](https://github.com/erda-project/erda)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1nR4y1K793)
+* 讲师PPT：[erda](https://github.com/gocn/opentalk/tree/main/2022/10_paas_2)
+
 
 ## 2021 年
 ### 第一期 Excelize
