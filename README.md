@@ -66,6 +66,11 @@
 * 视频地址：[点击观看](https://www.bilibili.com/video/BV1nR4y1K793)
 * 讲师PPT：[erda](https://github.com/gocn/opentalk/tree/main/2022/10_paas_2)
 
+### 六月
+#### 第十五期 Go 分布式链路追踪实现原理详解
+* 项目地址：[erda](https://github.com/erda-project/erda)
+* 视频地址：[点击观看](https://www.bilibili.com/video/BV1ZB4y1D7tw)
+* 讲师PPT：[erda](https://github.com/gocn/opentalk/tree/main/2022/15_trace)
 
 ## 2021 年
 ### 第一期 Excelize
